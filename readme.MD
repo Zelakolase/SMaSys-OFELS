@@ -13,3 +13,13 @@ It's a minimal system for my school. Built it all from scratch (OSI Layer 4).<br
 * GC can be triggered manually by the administrator.
 
 This project was built for [my school - Omar Elfarouk Governmental Language School](https://web.facebook.com/ofels), it's under review by the administration.
+
+## Screenshots
+![1](/img/1.png)
+![2](/img/2.png)
+![3](/img/3.png)
+![4](/img/4.png)
+![5](/img/5.png)
+![6](/img/6.png)
+![7](/img/7.png)
+![8](/img/8.png)
